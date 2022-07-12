@@ -1,2 +1,2 @@
-# Discord Bot 
-Discord bot built by using NodeJS
+# Discord Bot
+A discord bot built by using NodeJS
