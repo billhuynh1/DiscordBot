@@ -1,5 +1,5 @@
 const { Client, Intents, MessageActionRow, MessageButton, Message } = require('discord.js');
-const { token } = require('./config.json');
+const { token } = require('../config.json');
 const { TicTacToe } = require('./databaseObjects.js');
 
 const client = new Client({ intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MESSAGES] });
